@@ -1,0 +1,6 @@
+# Keep downloaded source data and local workbooks out of GitHub.
+data/*.csv
+*.xlsx
+*.xls
+*.pbix
+~$*

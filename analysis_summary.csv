@@ -1,0 +1,12 @@
+metric,value,as_of_or_definition
+Net sales,10482110.25,Sales Amount including signed returns
+Net units,116995,Qty Sold including signed returns
+Gross profit,4634359.15,Net sales minus net COGS
+Gross margin,0.4421,Gross profit divided by net sales
+Return rows,7491,Is Return equals 1
+Return line share,0.0596,Return rows divided by sales rows; not customer return rate
+Return value magnitude,733571.01,Absolute value of signed return sales
+Inventory on-hand units,37187,Active inventory intervals as of 2026-04-24
+Recorded retail inventory value,3592535.99,Active inventory intervals as of 2026-04-24
+Zero-balance inventory rows,2784,Active rows with Qty on hand equal to zero on 2026-04-24
+Negative-balance inventory rows,321,Active rows with Qty on hand below zero on 2026-04-24
